@@ -1,7 +1,12 @@
 package jdbchelper;
 
 import java.math.BigDecimal;
-import java.sql.*;
+import java.sql.Array;
+import java.sql.Blob;
+import java.sql.Clob;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 /**
  * Author: Erdinc YILMAZEL

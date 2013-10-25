@@ -1,7 +1,7 @@
 package jdbchelper;
 
-import java.sql.SQLException;
 import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 /**
  * Author: Erdinc YILMAZEL

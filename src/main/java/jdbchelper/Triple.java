@@ -1,6 +1,5 @@
 package jdbchelper;
 
-import java.util.Iterator;
 
 /**
  * Author: Erdinc YILMAZEL

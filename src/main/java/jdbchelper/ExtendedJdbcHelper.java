@@ -1,9 +1,10 @@
 package jdbchelper;
 
-import javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
 import java.sql.SQLException;
+
+import javax.sql.DataSource;
 
 /**
  * Author: Erdinc YILMAZEL

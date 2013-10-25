@@ -1,10 +1,10 @@
 package jdbchelper.ext;
 
-import jdbchelper.BeanCreator;
-
-import java.sql.Timestamp;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Timestamp;
+
+import jdbchelper.BeanCreator;
 
 /**
  * User: erdinc

@@ -1,8 +1,10 @@
 package jdbchelper;
 
-import org.junit.Test;
-import com.mysql.jdbc.jdbc2.optional.MysqlConnectionPoolDataSource;
 import static junit.framework.Assert.assertEquals;
+
+import org.junit.Test;
+
+import com.mysql.jdbc.jdbc2.optional.MysqlConnectionPoolDataSource;
 
 /**
  * User: erdinc

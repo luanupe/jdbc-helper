@@ -1,9 +1,9 @@
 package jdbchelper.ext;
 
-import jdbchelper.BeanCreator;
-
 import java.sql.ResultSet;
 import java.sql.SQLException;
+
+import jdbchelper.BeanCreator;
 
 /**
  * User: erdinc
